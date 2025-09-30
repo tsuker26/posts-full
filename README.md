@@ -98,7 +98,7 @@ docker compose up --build
 | ------------------ | ---------------------------------------------- | ------------------------------ |
 | 🌐 **Frontend**    | [http://localhost](http://localhost)           | React приложение (через Nginx) |
 | 🔧 **Backend API** | [http://localhost:3000](http://localhost:3000) | NestJS API сервер              |
-| 🗄️ **PgAdmin**     | [http://localhost:5050](http://localhost:5050) | Администрирование БД           |
+| 🗄️ **PgAdmin**     | [http://localhost:8080](http://localhost:8080) | Администрирование БД           |
 
 ### 🔑 Данные для входа в PgAdmin
 
