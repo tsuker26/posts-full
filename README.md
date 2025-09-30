@@ -3,7 +3,12 @@
 > **Полнофункциональное приложение для создания и управления постами**  
 > _Полный стек: NestJS + React + PostgreSQL + Docker Compose + Nginx_
 
-В этом репозитории объединены фронтенд и бэкенд проекты через git submodules и общий `docker-compose.yml`.
+В этом репозитории объединены фронтенд и бэкенд проекты и создан общий `docker-compose.yml`.
+
+Ссылки на отдельные репозитории:
+
+- **[frontend](https://github.com/tsuker26/posts)**
+- **[backend](https://github.com/tsuker26/posts-api)**
 
 ---
 
